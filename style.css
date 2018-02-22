@@ -1,0 +1,134 @@
+		body
+		{
+			background-image:url(background.jpg);
+			background-position:50% 100px;
+			color:white;
+		}
+		.dp
+		{
+			display:block;
+			margin-left:auto;
+			margin-right:auto;
+		}
+		#logo
+		{
+			background-color:brown;
+			padding-top:10px;
+			height:50px;
+			width:20%;
+			float:left;
+			font-weight:bold;
+			font-size:30px;
+			text-align:center;
+		}
+		#navbar
+		{
+			width:60%;
+			height:50px;
+			padding:5px;
+			background-color:black;
+			margin:2px;       
+		
+		}
+		#navbar a
+		{
+			margin:2px;
+			margin-left:10px;
+			padding-top:5px;
+			padding-left:10px;
+			padding-right:10px;
+			border-left: 2px solid white;
+			display:block;
+			float:left;
+			color:white;
+			font-size:30px;
+			text-decoration:none;
+		}
+
+		#navbar a:hover
+		{
+			color:yellow;
+			text-decoration:underline;
+		}
+		#name h1
+		{
+			width:100%;
+			margin-top: 30px;
+			margin-bottom:30px;
+			background-color:black;
+			text-align:center;
+		}
+		h1
+		{
+			color:white;
+			margin-top: 150px;
+			margin-bottom:30px;
+			background-color:black;
+		}
+		p
+		{
+			background-color:white; 
+			color:black; 
+			padding-bottom:10px;
+			text-indent: 30px; 
+			font-size: 30px; 
+			font-family:"Calibri";
+		}
+		p a
+		{
+			color:red;
+			text-decoration:none;
+		}
+		p a:hover
+		{
+			color:blue;
+			text-decoration:underline;
+		}
+		ul
+		{
+			background-color:white;
+			color:black;
+			padding-bottom:10px;
+			font-size:30px;
+			font-family:"Calibri";
+		}
+		ul a
+		{
+			color:red;
+			text-decoration:none;
+		}
+		ul a:hover
+		{
+			color:blue;
+			text-decoration:underline;
+		}
+		h4
+		{
+			background-color:red;
+			width:20%;
+		}
+		li
+		{
+			height:40px;
+			padding:5px;
+		}
+		img
+		{
+			margin-left:5px;
+			margin-right:5px;
+		}
+		form
+		{
+			background-color:white;
+			color:black;
+			padding-bottom:10px;
+			font-size:30px;
+			font-family:"Calibri";	
+		}
+		#Submit
+		{
+			margin-top:0px;
+			margin-bottom:10px;
+			margin-left:30px;
+			font-size: 20px;
+		}
